@@ -1,0 +1,11 @@
+{
+  "name": "day-four",
+  "version": "1.0.0",
+  "description": "Express.",
+  "main": "server.js",
+  "author": "Ahmed Gamal",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
